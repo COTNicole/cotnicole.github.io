@@ -4,7 +4,7 @@
 }
 
 header, footer {
-  background-color: #A0B9BF;
+  background-color: #BCD4DE;
   color: #fff;
 }
 
@@ -70,7 +70,7 @@ p, ul {
 
 /* Stretch - Call to Action Button */
 .action-button {
-  background-color: #466C88;
+  background-color: #BCD4DE;
   color: #040208;
   padding: 10px;
   margin-top: 1.5%;
@@ -81,7 +81,7 @@ p, ul {
 }
 
 .container {
-  background-color: #466C88;
+  background-color: #949BA0;
   overflow: hidden;
 }
 
@@ -107,7 +107,7 @@ a {
 
 /* Stretch - highlight span */
 .highlight {
-  color: #D35251;
+  color: #949BA0;
 }
 
 /* Strech - make it responsive */
