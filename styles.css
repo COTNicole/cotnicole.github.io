@@ -4,18 +4,18 @@
 }
 
 header, footer {
-  background-color: #82bef5;
+  background-color: #A0B9BF;
   color: #fff;
 }
 
 main {
   width: 71%;
-  background-color: #F6CE30;
+  background-color: #9DACB2;
   float: right;
 }
 
 aside {
-  background-color: #466C88;
+  background-color: #949BA0;
   width: 20%;
   float: left;
 }
@@ -27,7 +27,7 @@ aside ul {
 
 aside ul li a {
   font-size: 28px;
-  color: #F6CE30;
+  color: #040208;
   cursor: pointer;
 }
 
@@ -35,7 +35,7 @@ aside ul li a {
   width: 150px;
   height: 150px;
   padding: 1%;
-  background-color: #466C88;
+  background-color: #A0B9BF;
   border-radius: 50%;
 }
 
@@ -55,7 +55,7 @@ header p {
 }
 
 main h2 {
-  color: #466C88;
+  color: #A5CCD1;
 }
 
 p, ul {
@@ -71,7 +71,7 @@ p, ul {
 /* Stretch - Call to Action Button */
 .action-button {
   background-color: #466C88;
-  color: #F6CE30;
+  color: #040208;
   padding: 10px;
   margin-top: 1.5%;
   border-radius: 4px;
@@ -92,7 +92,7 @@ aside ul li a:hover {
 
 .action-button:hover {
   color: #466C88;
-  background-color: #F6CE30;
+  background-color: #BCD4DE;
 }
 
 /* Stretch - Simple CSS Transition */
