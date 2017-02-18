@@ -38,7 +38,11 @@ aside ul li a {
   background-color: #A0B9BF;
   border-radius: 50%;
 }
-
+.sideimage{
+  width: 100%;
+  height:auto;
+  display:block;
+}
 h1, h2, aside ul li {
   font-family: 'Bungee', serif;
 }
